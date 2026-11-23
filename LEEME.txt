@@ -1,0 +1,4 @@
+BETO DEL 8 - VERSIÓN 3
+Sube los archivos index.html, app.js, style.css, sw.js, manifest.webmanifest, icon-192.png e icon-512.png a la RAÍZ de tu repositorio GitHub Pages, reemplazando los que ya existan. No subas el ZIP directamente. Si ya tienes otros archivos antiguos puedes dejarlos sin modificar.
+Esta versión usa su propia clave de almacenamiento (beto8_ventas_v3) y empieza con 0 ventas. No borra registros antiguos de la versión 2. El respaldo JSON de la V3 permite restaurar ventas de V3. Si tu respaldo antiguo tiene otro formato puede no ser compatible.
+La primera carga requiere internet; después puede funcionar sin conexión si el navegador permite service workers. Si ves la versión anterior, cierra y vuelve a abrir la aplicación después de que GitHub Pages publique los cambios.
